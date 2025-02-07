@@ -54,9 +54,9 @@ Click on the buttons to add a number or operation. To get the result press **"="
 
 <img src="https://github.com/user-attachments/assets/bf3d5420-6806-4e30-96ab-5ab8337352fc" width="1000">
 
-<img src="https://github.com/user-attachments/assets/7cd439be-96d7-4d4e-b312-6c0ff0ada29c" width="300">
+<img src="https://github.com/user-attachments/assets/7cd439be-96d7-4d4e-b312-6c0ff0ada29c" width="400">
 
-<img src="https://github.com/user-attachments/assets/81ae5280-153a-4239-838a-711892384d83" width="300">
+<img src="https://github.com/user-attachments/assets/81ae5280-153a-4239-838a-711892384d83" width="400">
 
 <img src="https://github.com/user-attachments/assets/d1ee435b-6712-49d7-9786-44c880d0921a" width="1000">
 
