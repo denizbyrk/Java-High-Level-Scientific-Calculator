@@ -362,6 +362,7 @@ public class Calculator implements ActionListener {
 							|| currentOpr.charAt(currentOpr.length() - 2) == '%')) { // check the previous operator
 						
 						isNum = false;
+						
 					} else if (currentOpr.charAt(currentOpr.length() - 1) == '0'
 							|| currentOpr.charAt(currentOpr.length() - 1) == '1'
 							|| currentOpr.charAt(currentOpr.length() - 1) == '2'
