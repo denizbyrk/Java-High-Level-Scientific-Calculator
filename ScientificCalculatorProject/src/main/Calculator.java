@@ -354,17 +354,15 @@ public class Calculator implements ActionListener {
 						squParenthesisCounter += 1; // increase number of square parenthesis by one
 					}
 
-					if (currentOpr.charAt(currentOpr.length() - 2) == '+'
+					if (currentOpr.length() > 2 && (currentOpr.charAt(currentOpr.length() - 2) == '+'
 							|| currentOpr.charAt(currentOpr.length() - 2) == '-'
 							|| currentOpr.charAt(currentOpr.length() - 2) == '*'
 							|| currentOpr.charAt(currentOpr.length() - 2) == '/'
 							|| currentOpr.charAt(currentOpr.length() - 2) == '^'
-							|| currentOpr.charAt(currentOpr.length() - 2) == '%') { // check the previous operator
+							|| currentOpr.charAt(currentOpr.length() - 2) == '%')) { // check the previous operator
 						
 						isNum = false;
-					}
-
-					if (currentOpr.charAt(currentOpr.length() - 1) == '0'
+					} else if (currentOpr.charAt(currentOpr.length() - 1) == '0'
 							|| currentOpr.charAt(currentOpr.length() - 1) == '1'
 							|| currentOpr.charAt(currentOpr.length() - 1) == '2'
 							|| currentOpr.charAt(currentOpr.length() - 1) == '3'
