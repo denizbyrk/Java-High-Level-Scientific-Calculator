@@ -50,3 +50,14 @@ Click on the buttons to add a number or operation. To get the result press **"="
 
 ## Screenshots
 
+<img src="https://github.com/user-attachments/assets/4eac3829-7802-46fb-81f1-b1408efed43e" width="1000">
+
+<img src="https://github.com/user-attachments/assets/bf3d5420-6806-4e30-96ab-5ab8337352fc" width="1000">
+
+<img src="https://github.com/user-attachments/assets/7cd439be-96d7-4d4e-b312-6c0ff0ada29c" width="500">
+
+<img src="https://github.com/user-attachments/assets/81ae5280-153a-4239-838a-711892384d83" width="500">
+
+<img src="https://github.com/user-attachments/assets/d1ee435b-6712-49d7-9786-44c880d0921a" width="1000">
+
+<img src="https://github.com/user-attachments/assets/9b07d389-f506-4729-87a6-6c3ab6b89972" width="1000">
